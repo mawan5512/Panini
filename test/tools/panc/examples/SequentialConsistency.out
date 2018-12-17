@@ -1,0 +1,2 @@
+SequentialConsistency.java:37:28: compiler.warn.sc.warning: i2.set(new IntegerC(2)), i1.get(), 37, 38, Store
+1 warning
